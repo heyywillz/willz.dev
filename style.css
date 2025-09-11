@@ -211,8 +211,9 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 0.4rem;
   width: 200px;
-  height: 100px;
+  height: 80px;
   background-color: var(--text-color);
   border-radius: 6px;
   position: absolute;
@@ -222,6 +223,10 @@ main {
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   color: var(--background-color);
+}
+
+.item img {
+  width: 30px;
 }
 
 .item span {
