@@ -874,7 +874,7 @@ footer {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 834px) {
   header {
     padding-left: 3rem;
     padding-right: 3rem;
