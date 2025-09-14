@@ -952,16 +952,13 @@ footer {
 
   .item {
     width: 180px;
-    height: 50px;
+    height: 70px;
   }
 
 .item img {
-  width: 20px;
+  width: 30px;
 }
 
-.item span {
-  font-size: 1rem;
-}
 
   .about-container {
     margin-top: 1rem;
