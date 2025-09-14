@@ -901,6 +901,10 @@ footer {
     width: 90%;
   }
 
+  .service-card {
+    max-width: 100%;
+  }
+
   .sub-service h3 {
     font-size: 1.7rem;
   }
